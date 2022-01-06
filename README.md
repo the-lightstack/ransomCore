@@ -1,6 +1,6 @@
 # RansomCore
 
-An open source golang Ransomware for learning about the behaviore of ransomware.
+An open source golang Ransomware for learning about the behaviore of this kind of Malware.
 Currently it only really works on Linux though.
 This piece of software is meant for educational purposes only.
 I am not responsible for anything done with this code.
